@@ -18,12 +18,12 @@ Changing the contents of the file shouldn't be a problem if it doesn't cause any
 > #end
 > ```
 
-### Fixing a bug:
-When fixing a bug, make sure the fix doesn't cause *another* bug.
-
 > [!IMPORTANT]
 > ### Major Change:
 > When making a major change to the source code, contact me regarding the change first. Describe what's your goal and how it can make the template better.
 >
 > ### Linking the code to a external machine
 > If you are to link a variable to a external website, your pull request will be likely rejected because a lot of things can happen. Your pull request is going to be 100% rejected if the variable to link contains the user's personal and sensitive information. 
+
+### Fixing a bug:
+When fixing a bug, make sure the fix doesn't cause *another* bug.
