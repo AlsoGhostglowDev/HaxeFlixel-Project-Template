@@ -9,7 +9,7 @@ This template is free-to-use for both personal and commercial use
 You may edit and change the contents of the files as you will.
 If there's any suggestions or problems you need to address, 
 - You can DM me at discord: **@ghostglowdev**
-- Make a pull request <sup>(See: **[CONTRIBUTING.md](https://youtube.com)**)<sup/>
+- Make a pull request <sup>(See: **[CONTRIBUTING.md](https://github.com/AlsoGhostglowDev/HaxeFlixel-Project-Template/blob/main/CONTRIBUTING.md)**)<sup/>
 
 [comment]: <> (it's youtube link because i'm still making the markdown lmao) 
 
